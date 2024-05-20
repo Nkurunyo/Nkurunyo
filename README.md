@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nkurunyo
+- 👋 Hi, I’m @nkurunyo
 - 👀 I’m interested in automation and APIs. fun of strategic games
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
